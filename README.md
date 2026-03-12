@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
